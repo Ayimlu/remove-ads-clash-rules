@@ -28,7 +28,7 @@ jobs:
       run: |
         for file in doh-vpn-proxy-bypass.txt ultimate.txt popupads.txt; do
           # 添加 payload 到文件开头
-          echo "payload" | cat - $file > temp && mv temp $file
+          echo "payload:" | cat - $file > temp && mv temp $file
           # 替换 * 为 "  - +"
           sed -i 's/\*/  - +/g' $file
         done
