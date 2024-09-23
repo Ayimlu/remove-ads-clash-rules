@@ -46,8 +46,10 @@ jobs:
       run: |
         git config --global user.name 'GitHub Actions'
         git config --global user.email 'actions@github.com'
-        # 只有在有更改时才提交
-        git diff --quiet || (git add . && git commit -m 'Update txt files with payload and replacement')
+        # 强制添加 doh.txt 文件并提交
+        git add doh.txt
+        git add .
+        git diff --cached --quiet || git commit -m 'Update txt files with payload and replacement'
 
     - name: Push changes
       run: |
