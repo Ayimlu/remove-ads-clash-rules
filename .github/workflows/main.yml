@@ -23,6 +23,8 @@ jobs:
         curl -o ultimate.txt https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt
         # 拉取 popupads.txt 文件
         curl -o popupads.txt https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads.txt
+        # 拉取 tif.txt 文件
+        curl -o tif.txt https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.txt
 
     - name: Modify the txt files
       run: |
