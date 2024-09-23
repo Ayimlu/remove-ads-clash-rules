@@ -25,8 +25,10 @@ jobs:
         curl -o popupads.txt https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads.txt
         # 拉取 tif.txt 文件
         curl -o tif.txt https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.txt
+        # 拉取 doh.txt 文件
+        curl -o doh.txt https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/doh.txt
 
-    - name: Modify the txt files
+    - name: Modify txt files
       run: |
         for file in doh-vpn-proxy-bypass.txt ultimate.txt popupads.txt tif.txt; do
           # 添加 payload 到文件开头
@@ -34,6 +36,11 @@ jobs:
           # 替换 * 为 "  - +"
           sed -i 's/\*/  - +/g' $file
         done
+
+        # 修改 doh.txt 文件
+        echo "payload:" > modified_doh.txt
+        sed 's/^/  - /; s/$/\/32/' doh.txt >> modified_doh.txt
+        mv modified_doh.txt doh.txt
 
     - name: Commit changes
       run: |
