@@ -2,8 +2,8 @@ name: Sync specific txt files
 
 on:
   schedule:
-    # 每天触发一次工作流 (每天午夜 00:00 UTC)
-    - cron: '0 0 * * *'
+    # 每天北京时间 8:00 和 20:00 触发工作流
+    - cron: '0 0,12 * * *'
   workflow_dispatch:
     # 允许手动触发工作流
 
@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - name: Checkout this repository
-      uses: actions/checkout@v3  # 使用 v3 版本
+      uses: actions/checkout@v4  # 使用 v4 版本
 
     - name: Download txt files from upstream
       run: |
@@ -48,3 +48,14 @@ jobs:
       if: success()  # 只有在有更改提交时才推送
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  workflowcleanup:
+    name: Cleanup old workflow runs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cleanup workflow runs
+        uses: GitRML/delete-workflow-runs@main
+        with:
+          retain_days: 1  # 只保留一天内的工作流运行记录
+          keep_minimum_runs: 1  # 至少保留一次工作流运行记录
+    needs: sync  # 等待 sync 任务完成后执行
