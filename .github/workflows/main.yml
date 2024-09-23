@@ -31,11 +31,11 @@ jobs:
     - name: Modify txt files
       run: |
         for file in doh-vpn-proxy-bypass.txt ultimate.txt popupads.txt tif.txt doh.txt; do
-          # 添加 payload 到文件开头
-          echo "payload:" | cat - $file > temp && mv temp $file
           # 为 doh.txt 特殊处理，前加 "  - "，后加 "/32"
           if [[ "$file" == "doh.txt" ]]; then
             sed -i 's/^/  - /; s/$/\/32/' $file
+          # 添加 payload 到文件开头
+          echo "payload:" | cat - $file > temp && mv temp $file
           else
             # 替换 * 为 "  - +" 用于其他文件
             sed -i 's/\*/  - +/g' $file
