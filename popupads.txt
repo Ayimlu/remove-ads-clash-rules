@@ -1,3 +1,4 @@
+payload:
 # Title: HaGeZi's Pop-Up Ads DNS Blocklist
 # Description: Blocks annoying and malicious pop-up ads.
 # Homepage: https://github.com/hagezi/dns-blocklists
