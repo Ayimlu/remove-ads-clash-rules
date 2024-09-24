@@ -12,19 +12,19 @@ rule-providers:
   ultimate:
     type: http
     interval: 86400
-    format: text
+    format: yaml
     behavior: domain
     url: "https://raw.githubusercontent.com/Ayimlu/remove-ads-clash-rules/refs/heads/main/ultimate.txt"
   popupads:
     type: http
     interval: 86400
-    format: text
+    format: yaml
     behavior: domain
     url: "https://raw.githubusercontent.com/Ayimlu/remove-ads-clash-rules/refs/heads/main/popupads.txt"
   doh-vpn-proxy-bypass:
     type: http
     interval: 86400
-    format: text
+    format: yaml
     behavior: domain
     url: "https://raw.githubusercontent.com/Ayimlu/remove-ads-clash-rules/refs/heads/main/doh-vpn-proxy-bypass.txt"
 ```
