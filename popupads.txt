@@ -5,10 +5,10 @@ payload:
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Oct 2024 11:08 UTC
-# Version: 2024.1007.1108.03
+# Last modified: 07 Oct 2024 21:50 UTC
+# Version: 2024.1007.2150.17
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 81998
+# Number of entries: 82084
 #
   - +.0.beer
   - +.0.club
@@ -2061,6 +2061,7 @@ payload:
   - +.116c.net
   - +.11701.org
   - +.117693.com
+  - +.11778562.xyz
   - +.117arai.info
   - +.117ce.com
   - +.117f.net
@@ -6460,6 +6461,7 @@ payload:
   - +.adddumbestbarrow.com
   - +.addgreater.com
   - +.addictedwonder.com
+  - +.addictionmulegoodness.com
   - +.addictionpetfood.nz
   - +.addictivedjdesigns.com
   - +.addictrelive.com
@@ -6897,6 +6899,7 @@ payload:
   - +.adspredictiv.com
   - +.adspro.live
   - +.adspyglass.com
+  - +.adsquash.info
   - +.adsrevenue.net
   - +.adsrv.me
   - +.adsrv4k.com
@@ -7418,6 +7421,7 @@ payload:
   - +.afterdownloads.com
   - +.afterlabel.ru
   - +.afterlyfinc.com
+  - +.afternoongusdark.com
   - +.afternoonpregnantgetting.com
   - +.afternoonreeds.com
   - +.afternoonshipment.com
@@ -7650,6 +7654,7 @@ payload:
   - +.ahgdpeafwv.com
   - +.ahgfuqbtynag.com
   - +.ahgxawophb.com
+  - +.ahhbxflwet.com
   - +.ahheoy.com
   - +.ahhhhfa.com
   - +.ahhhhs.com
@@ -7773,6 +7778,7 @@ payload:
   - +.aimeechuby.com
   - +.aimextractpunk.com
   - +.aimingaye.com
+  - +.aimingwildernessinterim.com
   - +.aimjw.com
   - +.aimlesscologneyolk.com
   - +.aimn5.com
@@ -9773,6 +9779,7 @@ payload:
   - +.aqjbfed.com
   - +.aqjthdnxk.top
   - +.aqkkoalfpz.com
+  - +.aqncinxrexa.com
   - +.aqnnysd.com
   - +.aqnobnhcod.com
   - +.aqo2abaqa1pz.xyz
@@ -12468,6 +12475,7 @@ payload:
   - +.beadatadrivenbv-sandbox.xyz
   - +.beadpenetrate.com
   - +.beaglemanipulate.com
+  - +.beakbelowcontented.com
   - +.beakercompatibilitypity.com
   - +.beakerweedjazz.com
   - +.beakexcursion.com
@@ -12779,6 +12787,7 @@ payload:
   - +.bellacomparisonluke.com
   - +.bellaglowshop.com
   - +.bellamammella.ca
+  - +.bellamyamusement.com
   - +.bellamyawardinfallible.com
   - +.bellamynorthcommission.com
   - +.bellanottecockers.com
@@ -15896,6 +15905,7 @@ payload:
   - +.byblos.one
   - +.bybvlxawaiioo.com
   - +.bycads.com
+  - +.bycarver.com
   - +.byccvtl.com
   - +.bycelebian.com
   - +.byclick.org
@@ -15922,6 +15932,7 @@ payload:
   - +.bykemaniax.in
   - +.bylawrite.com
   - +.byluvdiscor.com
+  - +.bymkmrdzxocasd.com
   - +.byntrade.buzz
   - +.byocamper.com
   - +.bypasseaseboot.com
@@ -15929,6 +15940,7 @@ payload:
   - +.bypassmaestro.com
   - +.bypassnumeral.com
   - +.bypasspredicatefall.com
+  - +.bypassstrugglingterribly.com
   - +.bysparrow.com
   - +.bystanderdim.com
   - +.bytecny.com
@@ -20132,6 +20144,7 @@ payload:
   - +.collection-day.com
   - +.collectiondotsuptown.com
   - +.collectionmpmusic.xyz
+  - +.collectionsmast.com
   - +.collectionspriestcardiac.com
   - +.collectiveablygathering.com
   - +.collectiveevidencesire.com
@@ -21440,6 +21453,7 @@ payload:
   - +.countdownhoop.com
   - +.countdownlogic.com
   - +.countdownwildestmargarine.com
+  - +.countenancebelief.com
   - +.countenancecurls.com
   - +.countenancedrykeeper.com
   - +.countenancepeculiaritiescollected.com
@@ -22467,6 +22481,7 @@ payload:
   - +.cycjmxrrto.com
   - +.cycledaction.com
   - +.cyclesleeves.com
+  - +.cyclesoothalt.com
   - +.cycleworked.com
   - +.cycleworksdiscgolf.com
   - +.cyclingbase.com
@@ -24232,6 +24247,7 @@ payload:
   - +.differsprosperityprotector.com
   - +.difficultfog.com
   - +.difficultorganizelavish.com
+  - +.difficultyanthonymode.com
   - +.difficultydilapidationsodium.com
   - +.difficultyearliestclerk.com
   - +.difficultyefforlessefforlessthump.com
@@ -25578,6 +25594,7 @@ payload:
   - +.dramaticsuperbmend.com
   - +.drambedkar.net
   - +.drankcrescent.com
+  - +.drankglowfigure.com
   - +.drankpool.com
   - +.dranktonsil.com
   - +.drapefabric.com
@@ -25669,6 +25686,7 @@ payload:
   - +.dreyeli.info
   - +.drfaultlessplays.com
   - +.drgauravpatodia.com
+  - +.drgrjhxvbaql.com
   - +.dri2.com
   - +.driada.pro
   - +.dribletsusian.com
@@ -26129,6 +26147,7 @@ payload:
   - +.dvrcloncurry.com
   - +.dvs-davidas.com
   - +.dvvemmg.com
+  - +.dvvyyakgkzbbg.com
   - +.dvypar.com
   - +.dvzkkug.com
   - +.dwarfoptpitiful.com
@@ -26677,6 +26696,7 @@ payload:
   - +.editneed.com
   - +.editorialdirectionllc.com
   - +.ediu.pl
+  - +.edixagnesag.net
   - +.edixe.com
   - +.edlfwrydq.top
   - +.edlilu.com
@@ -27036,6 +27056,7 @@ payload:
   - +.ejitsirdosha.net
   - +.ejn910.com
   - +.ejo-cat.com
+  - +.ejoogaubsebsee.net
   - +.ejoonsoo.net
   - +.ejuiashsateam.info
   - +.ejuiashsateampl.info
@@ -27086,6 +27107,7 @@ payload:
   - +.elatedynast.com
   - +.elaterconditing.info
   - +.elateryprepg.com
+  - +.elaydark.com
   - +.elbowfixes.com
   - +.elbowrevolutionary.com
   - +.elburrote.com
@@ -27985,6 +28007,7 @@ payload:
   - +.eqngcxaaw.com
   - +.eqqsl.com
   - +.eqsstvfotd.com
+  - +.equababes.com
   - +.equabilityassortshrubs.com
   - +.equabilityspirepretty.com
   - +.equalditchcentered.com
@@ -34845,6 +34868,7 @@ payload:
   - +.gypsitenevi.com
   - +.gypsouspatron.com
   - +.iv.gypsyrysmarter.com
+  - +.gyqyjjukdvfct.com
   - +.gytujflc.biz
   - +.gyxkmpf.com
   - +.gz363.com
@@ -37370,6 +37394,7 @@ payload:
   - +.hxlkytqpinnqeo.com
   - +.hxmanga.com
   - +.hxoewq.com
+  - +.hxpohplms.com
   - +.hxsp.one
   - +.hxstdsdxmet.com
   - +.hxx6.com
@@ -37814,6 +37839,7 @@ payload:
   - +.igatecorp.com
   - +.igatekeeper.in
   - +.igeevoobse.com
+  - +.igeksagrie.net
   - +.ighelpsite.com
   - +.ightsapph.info
   - +.igilitygpo.com
@@ -37883,6 +37909,7 @@ payload:
   - +.ihoolrun.net
   - +.ihopuchcomp.xyz
   - +.ihpacademy.com
+  - +.ihpsthaixd.com
   - +.ihtpevezoe.com
   - +.ihttscqovzzb.com
   - +.ihzuephjxb.com
@@ -37914,6 +37941,7 @@ payload:
   - +.ijjiufivbzksh.com
   - +.ijjorsrnydjcwx.com
   - +.ijmvzidiewtsko.com
+  - +.ijmxhvmnjqq.com
   - +.ijobloemotherofh.com
   - +.ijoompaich.com
   - +.ijqnlwdqiyhisc.com
@@ -38230,6 +38258,7 @@ payload:
   - +.importantlyshow.com
   - +.importedidea.com
   - +.imposecalm.com
+  - +.imposeestimatesunflower.com
   - +.imposi.com
   - +.impossibilityaboriginalblessed.com
   - +.impossibilityfighter.com
@@ -38785,6 +38814,7 @@ payload:
   - +.injuredeprivation.com
   - +.injuredgetrich.us
   - +.injuredjazz.com
+  - +.injuredprevailed.com
   - +.injuredripplegentleman.com
   - +.injuryglidejovial.com
   - +.injuryimprovenorth.com
@@ -39056,6 +39086,7 @@ payload:
   - +.instrumenttactics.com
   - +.insuhealth.in
   - +.insulationembroiderypledge.com
+  - +.insulationonto.com
   - +.insultingnoisysubjects.com
   - +.insultingrecord.com
   - +.insultingvaultinherited.com
@@ -39294,6 +39325,7 @@ payload:
   - +.inupnae.com
   - +.inurneddoggish.com
   - +.inuvialuitchildwellbeing.org
+  - +.inuzsdoa.com
   - +.invadebagfence.com
   - +.invadedisheartentrail.com
   - +.invadedwormmillionaire.com
@@ -39370,6 +39402,7 @@ payload:
   - +.involuntarypants.com
   - +.involvementleaving.com
   - +.involvementsolderhandkerchief.com
+  - +.involvementvindictive.com
   - +.involvewynter.com
   - +.involvingaged.com
   - +.invordones.com
@@ -39445,6 +39478,7 @@ payload:
   - +.iphonewallpaper.com
   - +.iphtml.com
   - +.iphumiki.com
+  - +.iphuzoochuwhi.net
   - +.ipingiam.com
   - +.ipissodsaukr.net
   - +.ipkqfkzsmme.com
@@ -39459,6 +39493,7 @@ payload:
   - +.ipooroumih.com
   - +.ippapartments.com
   - +.ippleshiswashis.info
+  - +.ipqnteseqrf.xyz
   - +.iprom.net
   - +.ipromcloud.com
   - +.wssapi.ddr.sit.ipruniversalbot.com
@@ -39593,6 +39628,7 @@ payload:
   - +.irvtron.com
   - +.isaacshields.com
   - +.isabellaentire.com
+  - +.isabellagodpointy.com
   - +.isabellahopepancake.com
   - +.isaitchoas.com
   - +.isakhost.com
@@ -39907,6 +39943,7 @@ payload:
   - +.iximiapp.com
   - +.ixnow.xyz
   - +.ixnp.com
+  - +.ixoduwvj.com
   - +.ixppi.shop
   - +.ixrjulhjsgpnuw.com
   - +.ixvest.com
@@ -39985,6 +40022,7 @@ payload:
   - +.jacksonhogarth.com
   - +.jacksonours.com
   - +.jacksonshebureau.com
+  - +.jacksonvisa.com
   - +.jaclottens.live
   - +.jacmolta.com
   - +.jacnrobv.com
@@ -40632,6 +40670,7 @@ payload:
   - +.jitoassy.com
   - +.jitoreward.com
   - +.jitsergockou.com
+  - +.jitterjourneycottage.com
   - +.jituwinjp.com
   - +.jiulhoksd.com
   - +.jiuse90.com
@@ -42354,6 +42393,7 @@ payload:
   - +.knoxportcarling.org
   - +.knsfmfqcwv.com
   - +.knsyenergyfl.xyz
+  - +.kntodvofiyjjl.xyz
   - +.knucklebones.net
   - +.knurleddeblock.guru
   - +.knutenegros.pro
@@ -42812,6 +42852,7 @@ payload:
   - +.kuwoucaxoad.com
   - +.kuwoukreecki.com
   - +.kuxatsiw.net
+  - +.kuxfsgwjkfu.com
   - +.kuyzh.yt
   - +.kuzelky.info
   - +.kuzeyisigikres.com
@@ -43325,6 +43366,7 @@ payload:
   - +.laurenciasherwood.net
   - +.lausoudu.net
   - +.laustiboo.com
+  - +.laustoowagosha.net
   - +.lautionsintganic.com
   - +.lauwhounou.net
   - +.lauwofigleegry.net
@@ -43508,6 +43550,7 @@ payload:
   - +.leapcompatriotjangle.com
   - +.leapdollar.com
   - +.leapedbootspiders.com
+  - +.leapedstretchsocalled.com
   - +.leapingcastle.com
   - +.leapingintothe22ndcentury.ca
   - +.leapingintothe22ndcentury.com
@@ -43599,6 +43642,7 @@ payload:
   - +.leepheesy.net
   - +.leephijaupe.net
   - +.leepoboakee.com
+  - +.leepoumeedery.net
   - +.leeptoadeesh.net
   - +.leesalteration.com
   - +.leetaipt.net
@@ -43710,6 +43754,7 @@ payload:
   - +.leleeband.com
   - +.lelesidesukbeing.info
   - +.lelrouxoay.com
+  - +.lelruftoutufoux.net
   - +.lementwrencespri.info
   - +.lemerigothotelsantamonica.com
   - +.lemerigothotelsm.com
@@ -43922,6 +43967,7 @@ payload:
   - +.lgdtxtr.net
   - +.lgepbups.xyz
   - +.lghqdjhilj.com
+  - +.lgmjcwufa.com
   - +.lgpumcja.com
   - +.lgqwdzexjo.com
   - +.lgs.group
@@ -44191,6 +44237,7 @@ payload:
   - +.limitedkettlemathematical.com
   - +.limitesrifer.com
   - +.limitlessascertain.com
+  - +.limitlessoptcoffin.com
   - +.limitlessstare.com
   - +.limitsevent.com
   - +.limitssimultaneous.com
@@ -46046,6 +46093,7 @@ payload:
   - +.mankindflatten.com
   - +.mankindunattractive.com
   - +.manmagazin.com
+  - +.mannercolumnsalmond.com
   - +.mannerconflict.com
   - +.mannobrothers.net
   - +.mannobrothers.us
@@ -46186,6 +46234,7 @@ payload:
   - +.margaritapowerclang.com
   - +.margauxswim.com
   - +.margiesgardens.com
+  - +.marginpublished.com
   - +.margotlamujeralada.com
   - +.marhaendaily.net
   - +.mariaalmoite.com
@@ -47928,6 +47977,7 @@ payload:
   - +.missav999.com
   - +.missbeautyqueen.com
   - +.missdangerous.com
+  - +.missequa.com
   - +.missilecondensed.com
   - +.missilesocalled.com
   - +.missilesurvive.com
@@ -48140,6 +48190,7 @@ payload:
   - +.mo3i5n46.de
   - +.moabitebeltis.top
   - +.moadworld.com
+  - +.moafiglouwhiki.net
   - +.moaglail.xyz
   - +.moagroal.com
   - +.moakaumo.com
@@ -50031,6 +50082,7 @@ payload:
   - +.nauticalbesiegeobserved.com
   - +.nauticaloctober.com
   - +.nauticalpenitenceshudder.com
+  - +.nauticalpingelephant.com
   - +.nauticsdreams.com
   - +.nauticshop.online
   - +.nautigear.us
@@ -50090,6 +50142,7 @@ payload:
   - +.nba-stream.net
   - +.nbanetsonline.com
   - +.nbb.beer
+  - +.nbbebpyjwu.com
   - +.nbbulbule.in
   - +.nbbuyktkufyq.com
   - +.nbdayingcellophane.com
@@ -51471,6 +51524,7 @@ payload:
   - +.noulairewe.net
   - +.noumohur.com
   - +.nounaswarm.com
+  - +.nounbeggar.com
   - +.noundoc.com
   - +.noungundated.com
   - +.nounooch.com
@@ -53405,6 +53459,7 @@ payload:
   - +.opiatemusic.org
   - +.opinioncrafts.com
   - +.opioidsmedshop.com
+  - +.opittkwj.xyz
   - +.opkinglerr.com
   - +.oplatacashback.com
   - +.oplo.org
@@ -55738,6 +55793,7 @@ payload:
   - +.petasiaexpo.com
   - +.petasmaeryops.com
   - +.petasusawber.com
+  - +.petbook.pet
   - +.petcareclub.ca
   - +.petchesa.net
   - +.petchoub.com
@@ -56311,6 +56367,7 @@ payload:
   - +.pinceratoengineering.com
   - +.pincersnap.com
   - +.pinchbarren.com
+  - +.pinchdonkeybelieves.com
   - +.pinchingoverridemargin.com
   - +.pinchofest.com
   - +.pinchsquirrel.com
@@ -56894,6 +56951,7 @@ payload:
   - +.poacauceecoz.com
   - +.poacawhe.net
   - +.poachfirewoodboast.com
+  - +.poaeyuvqclgwbk.com
   - +.poafuden.top
   - +.poagourait.com
   - +.poagrili.net
@@ -57441,6 +57499,7 @@ payload:
   - +.pouhefigleey.net
   - +.poultryvoltaics.com
   - +.pounceintention.com
+  - +.pouncetusk.com
   - +.poundabbreviation.com
   - +.poundplanprecarious.com
   - +.poundrestaurant.com
@@ -58263,6 +58322,7 @@ payload:
   - +.programminghorizon.com
   - +.programqatar.org
   - +.programscola.com
+  - +.progressfashion.com
   - +.progressfitness.net
   - +.progressivepowerandlight.com
   - +.progressivesafesystem.com
@@ -58824,6 +58884,7 @@ payload:
   - +.ptauwaufugex.com
   - +.ptauwhoorou.com
   - +.ptauxofi.net
+  - +.ptavutchain.com
   - +.ptawehex.net
   - +.ptawhaiksy.com
   - +.ptawhood.net
@@ -59889,6 +59950,7 @@ payload:
   - +.quotecrisis.com
   - +.quoteevolution.ca
   - +.quoteevolution.com
+  - +.quotemewestern.ca
   - +.quotes.com
   - +.quotes-p.com
   - +.quotes-quotations.com
@@ -60358,6 +60420,7 @@ payload:
   - +.raretearepublic.net
   - +.rarewinecompany.com
   - +.rarhfpoxrtypi.info
+  - +.rarrwcfe.com
   - +.rartengg.com
   - +.rasaboxes.org
   - +.rasalasgobangs.top
@@ -60563,6 +60626,7 @@ payload:
   - +.read-all-over.net
   - +.read-download-books.com
   - +.readbygrade3.com
+  - +.readercollateral.com
   - +.readerduckreflected.com
   - +.readerpossessionimpulse.com
   - +.readidemo.com
@@ -60672,6 +60736,7 @@ payload:
   - +.reasonauts.com
   - +.reasoncharmsin.com
   - +.reasoningarcherassuage.com
+  - +.reasoningindication.com
   - +.reasoninstruct.com
   - +.reasonyhockey.com
   - +.reassurehintholding.com
@@ -60925,6 +60990,7 @@ payload:
   - +.redwarepotgirl.space
   - +.redwingmagazine.com
   - +.reeboksportsclub.com
+  - +.reecasoabaiz.net
   - +.reecegrita.com
   - +.reechegraih.com
   - +.reechoat.com
@@ -61583,6 +61649,7 @@ payload:
   - +.respectfullyalternate.com
   - +.respectfullyarena.com
   - +.respectfullyorigin.com
+  - +.respectfullyprivilegerecognise.com
   - +.respectfullyrecorder.com
   - +.respectfulofficiallydoorway.com
   - +.respectfulpleaabsolve.com
@@ -62273,6 +62340,7 @@ payload:
   - +.roarcontrivanceuseful.com
   - +.roarsulphur.com
   - +.roasooph.net
+  - +.roastfashioned.com
   - +.roastoup.com
   - +.roataisa.net
   - +.roathoowood.com
@@ -65603,6 +65671,7 @@ payload:
   - +.shosse.net
   - +.shotdynastyimpetuous.com
   - +.shotgunchancecruel.com
+  - +.shotloomnan.com
   - +.shotters.live
   - +.shoubsee.net
   - +.shouchoah.com
@@ -65888,6 +65957,7 @@ payload:
   - +.silverblends.com
   - +.silverbull.au
   - +.silverbulltrust.com
+  - +.silverhillventures.net
   - +.silverlakeautosales.net
   - +.silverlakesystems.ca
   - +.silverlightaddict.com
@@ -66424,6 +66494,7 @@ payload:
   - +.slifield-feasishes.xyz
   - +.slightaffliction.com
   - +.slightcareconditions.com
+  - +.slightestchastise.com
   - +.slightestpretenddebate.com
   - +.slightincapableaccustom.com
   - +.slightlyeaglepenny.com
@@ -67211,6 +67282,7 @@ payload:
   - +.sonanchal.com
   - +.sonarghare.com
   - +.sondibruner.com
+  - +.songallright.com
   - +.songbagoozes.com
   - +.songcorrespondence.com
   - +.songjj.top
@@ -68120,6 +68192,7 @@ payload:
   - +.staipsauy.net
   - +.staircaseinjunction.com
   - +.staircaseminoritybeeper.com
+  - +.stairmercenary.com
   - +.stairtaishol.com
   - +.stairtuy.com
   - +.stairwellobliterateburglar.com
@@ -69445,6 +69518,7 @@ payload:
   - +.supersedeowetraumatic.com
   - +.superservercellarchin.com
   - +.superserverwarrior.com
+  - +.superstitionpronunciation.com
   - +.superstitiouscoherencemadame.com
   - +.superstriker.net
   - +.supertech.digital
@@ -69710,6 +69784,7 @@ payload:
   - +.sustrik.ninja
   - +.suswasthyaandrairishi.com
   - +.sutaiocuppas.com
+  - +.suthaumsou.net
   - +.suthco.com
   - +.sutiletoroid.com
   - +.sutisrm.com
@@ -70020,6 +70095,7 @@ payload:
   - +.synthesissocietysplitting.com
   - +.syntheticsforever.org
   - +.synthexsolutions.info
+  - +.synvwoelorruw.com
   - +.syofklngqqlw.com
   - +.syphonseity.com
   - +.sypnios.com
@@ -71252,7 +71328,6 @@ payload:
   - +.the-bitcoin-loopholeapp.net
   - +.the-bitcoin-pro-system.com
   - +.the-bitcoin-synergy.com
-  - +.the-bitcoin-trend.net
   - +.the-bitcoinevolution-pro.net
   - +.the-bitcoinpro-app.com
   - +.the-bitindex-prime.com
@@ -72914,6 +72989,7 @@ payload:
   - +.topblockchainsolutions.nl
   - +.topcarwallpaper.xyz
   - +.topclickguru.com
+  - +.topcpmcreativeformat.com
   - +.topcreativeformat.com
   - +.topdealad.com
   - +.topdisplaycontent.com
@@ -73026,6 +73102,7 @@ payload:
   - +.torontocommunitysurgicalcentre.com
   - +.torontocommunitysurgicalcentres.com
   - +.torontodirtt.com
+  - +.torontolaserclinic.com
   - +.torontolearning.com
   - +.torontoplaybook.com
   - +.torontoroar.com
@@ -73628,6 +73705,7 @@ payload:
   - +.treatmentkerbdistracting.com
   - +.treatmentoctopus.com
   - +.treatmentsbyupscript.com
+  - +.treatmentstatute.com
   - +.treatmycovid.com
   - +.treatyaccuserevil.com
   - +.treatyapplicationcleaned.com
@@ -74893,6 +74971,7 @@ payload:
   - +.unbeedrillom.com
   - +.unbelievableheartbreak.com
   - +.unbelievableinnumerable.com
+  - +.unbelievablesuitcasehaberdashery.com
   - +.unbelievablydemocrat.com
   - +.unblestgliffs.top
   - +.unblitzlean.com
@@ -76551,6 +76630,7 @@ payload:
   - +.vgapl.net
   - +.vgfhycwkvh.com
   - +.vghblhtjayp.com
+  - +.vgizkqpxwll.com
   - +.vgoedu.com
   - +.vgoedu.net
   - +.vgostore.xyz
@@ -77083,6 +77163,7 @@ payload:
   - +.visneau.com
   - +.visoadroursu.com
   - +.visors-airminal.com
+  - +.vistaarts.site
   - +.vistaparksfm.com
   - +.vistasandbox.com
   - +.vistaut.com
@@ -77304,6 +77385,7 @@ payload:
   - +.volkswagenunionville.com
   - +.volleyballachiever.site
   - +.volleyballsuccessor.com
+  - +.volmcfjmtr.com
   - +.volnacesta.com
   - +.volobe.com
   - +.vologos.com
@@ -79706,6 +79788,7 @@ payload:
   - +.write-research-paper.online
   - +.writeestatal.space
   - +.writefasternow.net
+  - +.writegravely.com
   - +.writhehawm.com
   - +.writinginbed.com
   - +.writinginthebuff.net
@@ -80073,6 +80156,7 @@ payload:
   - +.xflexspace.com
   - +.xfmelqyirfbig.com
   - +.xfmlp.com
+  - +.xfortunes7.com
   - +.xftyrtsm.com
   - +.xfu66.com
   - +.xfuhhuqtubu.com
@@ -80443,6 +80527,7 @@ payload:
   - +.xwazafkzej.com
   - +.xwdplfo.com
   - +.xwewabodwhud.com
+  - +.xwlhlyihb.com
   - +.xwlketvkzf.com
   - +.xwqvytuiko.com
   - +.xwsjfvov.info
@@ -81787,6 +81872,7 @@ payload:
   - +.zonsingise.com
   - +.zonupiza.com
   - +.zoobliedoodle.com
+  - +.zoobook.pet
   - +.zoocheeh.net
   - +.zoochudi.net
   - +.zoogripi.com
